@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "kz-kol2app"
+    }
+  },
+  "defaultProject": "kz-kol2app",
+  "cli": {
+    "analytics": false
+  }
 }
